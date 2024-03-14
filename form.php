@@ -6,4 +6,5 @@ $telefone=$_POST['telefone'];
 $data=$_POST['data'];
 $email=$_POST['email'];
 $senha=$_POST['senha'];
+$sql="INSERT INTO pessoa"
 ?>
