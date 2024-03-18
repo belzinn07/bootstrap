@@ -2,6 +2,6 @@
 $servidor="localhost";
 $usario="root";
 $senha="";
-$banco="";
+$banco="revisao";
 
 ?>
