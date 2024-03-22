@@ -8,9 +8,9 @@
     <link  rel="stylesheet" href="css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
   <body>
-      <div class="contanier">
-      <div class="coluna">
-       <div class="linha">
+      <div class="container">
+      <div class="row">
+       <div class="col">
        <h1>Cadastre-se</h1>
        <form>
          <div class="mb-3">
